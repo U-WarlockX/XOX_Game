@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XOX_GAME</string>
+    <string name="texttitle">Tic Tac Toe</string>
+    <string name="text_player1">Player-1 Score</string>
+    <string name="score_Player2">0</string>
+    <string name="score_player1">0</string>
+    <string name="textStatus">Status</string>
+    <string name="btn_play_Again">Play Again</string>
+    <string name="btn_reset">Reset Game</string>
+    <string name="text_player2">Player-2 Score</string>
+    <string name="textView">TIC TAC TOE</string>
+    <string name="button_Startgame">"Start "</string>
+    <string name="button_Play">Play</string>
+    <string name="button_highscore">High Score</string>
+    <string name="button4">Back</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="texttitle1">#C4ACFF</color>
+    <color name="textStatus1">#CB3FEFFF</color>
+    <color name="btn_play_again1">#281652</color>
+    <color name="bacground_col">#3B3B3D</color>
+</resources>
