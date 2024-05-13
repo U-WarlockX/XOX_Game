@@ -16,9 +16,6 @@
             android:name=".MainPageActivity"
             android:exported="false" />
         <activity
-            android:name=".MainpageActivity"
-            android:exported="false" />
-        <activity
             android:name=".GameActivity"
             android:exported="false" />
         <activity
